@@ -3,11 +3,7 @@ A web-based application that helps users search for academic research papers wit
 
 # Features
 
-✅ AI-Powered Query Optimization using Google Gemini
-✅ Multi-source search (Exa → Arxiv → Wikipedia fallback)
-✅ Affiliation Filtering – highlights papers from SKASC
-✅ Interactive UI with animated cards and loaders
-✅ Detailed results including title, authors, excerpts, and links
+✅ AI-Powered Query Optimization using Google Gemini ,Multi-source search (Exa → Arxiv → Wikipedia fallback) ,Affiliation Filtering – highlights papers from SKASC ,Interactive UI with animated cards and loaders,Detailed results including title, authors, excerpts, and links.
 
 # 🏗️ System Architecture
 
@@ -41,9 +37,9 @@ Flask , python-dotenv ,langchain, langchain-community ,langchain-google-genai ,l
 
 # 🤝 Team Members
 
-Monisha Ravichandran (23BCT135)– Project Lead & System Architect
-Harini M (23BCT117) – Frontend Developer
-Varadalakshmi S (23BCT161) – Backend API Integration
-Darshana J (23BCT107) – Gemini AI Specialist
-Kowsalya V (23BCT128) – Affiliation Filtering Module
-Sanjay K (23BCT150)– Tester & Deployment Engineer
+Monisha Ravichandran (23BCT135)– Project Lead & System Architect ;
+Harini M (23BCT117) – Frontend Developer ; 
+Varadalakshmi S (23BCT161) – Backend API Integration ; 
+Darshana J (23BCT107) – Gemini AI Specialist ; 
+Kowsalya V (23BCT128) – Affiliation Filtering Module ; 
+Sanjay K (23BCT150)– Tester & Deployment Engineer 
